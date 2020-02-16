@@ -2,6 +2,8 @@
 
 This is a fork of https://github.com/jazzdd86/phpVirtualbox, to use the develop version of phpvirtualbox which works with the latest version of Virtualbox (6.2).
 
+NOTE: There is no docker repo for this, simply build this on your local instance and run it. You will need to change the usage command below to change the image. 
+
 ## phpVirtualBox
 
 [phpVirtualBox](http://sourceforge.net/projects/phpvirtualbox/) is a modern web interface that allows you to control remote VirtualBox instances - mirroring the VirtualBox GUI.
