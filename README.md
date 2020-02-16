@@ -1,6 +1,6 @@
-# docker-phpvirtualbox
+# phpvirtualbox-docker
 
-This is a fork of [clue/phpvirtualbox](https://hub.docker.com/r/clue/phpvirtualbox/), because it is not very up to date and there are no further configuration options.
+This is a fork of https://github.com/jazzdd86/phpVirtualbox, to use the develop version of phpvirtualbox which works with the latest version of Virtualbox (6.2).
 
 ## phpVirtualBox
 
